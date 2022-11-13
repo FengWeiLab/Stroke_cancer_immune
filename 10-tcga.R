@@ -1,7 +1,5 @@
 # Metainfo ----------------------------------------------------------------
 
-# @AUTHOR: Chun-Jie Liu
-# @CONTACT: chunjie.sam.liu.at.gmail.com
 # @DATE: Tue Sep  6 18:36:33 2022
 # @DESCRIPTION: tcga 5op 50 genes
 
